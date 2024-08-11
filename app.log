@@ -1,0 +1,48 @@
+2024-08-11 17:45:08,157 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-08-11 17:45:08,157 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-11 17:45:15,948 - EmbeddingProcessor - INFO - Loaded model BAAI/bge-m3.
+2024-08-11 17:45:15,967 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-11 17:45:16,175 - EmbeddingProcessor - INFO - Connected to Chroma DB at ./Vector_DB.
+2024-08-11 17:45:16,175 - DataPreprocessor - INFO - Loading and preprocessing data.
+2024-08-11 17:45:16,175 - DataPreprocessor - INFO - Found 1 CSV files in data.
+2024-08-11 17:45:16,175 - DataPreprocessor - INFO - Loading file test_data.csv.
+2024-08-11 17:45:16,175 - DataPreprocessor - INFO - Preprocessing DataFrame with 30 rows.
+2024-08-11 17:45:16,175 - DataPreprocessor - INFO - Combined DataFrame has 30 rows.
+2024-08-11 17:45:16,175 - EmbeddingProcessor - INFO - Processing data and storing embeddings.
+2024-08-11 17:45:16,175 - EmbeddingProcessor - INFO - Calculating embeddings for 30 questions.
+2024-08-11 17:45:55,121 - EmbeddingProcessor - INFO - Storing embeddings in Chroma DB.
+2024-08-11 17:46:40,194 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-08-11 17:46:40,194 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-11 17:46:45,382 - EmbeddingProcessor - INFO - Loaded model BAAI/bge-m3.
+2024-08-11 17:46:45,413 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-11 17:46:45,580 - EmbeddingProcessor - INFO - Connected to Chroma DB at ./Vector_DB.
+2024-08-11 17:46:45,580 - DataPreprocessor - INFO - Loading and preprocessing data.
+2024-08-11 17:46:45,596 - DataPreprocessor - INFO - Found 1 CSV files in data.
+2024-08-11 17:46:45,596 - DataPreprocessor - INFO - Loading file test_data.csv.
+2024-08-11 17:46:45,596 - DataPreprocessor - INFO - Preprocessing DataFrame with 30 rows.
+2024-08-11 17:46:45,596 - DataPreprocessor - INFO - Combined DataFrame has 30 rows.
+2024-08-11 17:46:45,596 - EmbeddingProcessor - INFO - Processing data and storing embeddings.
+2024-08-11 17:46:45,596 - EmbeddingProcessor - INFO - Calculating embeddings for 30 questions.
+2024-08-11 17:47:24,505 - EmbeddingProcessor - INFO - Storing embeddings in Chroma DB.
+2024-08-11 17:47:24,870 - EmbeddingProcessor - INFO - Total 30 embeddings stored in Chroma DB.
+2024-08-11 17:47:24,870 - EmbeddingProcessor - INFO - Persisting Chroma DB.
+2024-08-11 17:51:43,786 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-08-11 17:51:43,786 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-11 17:51:48,735 - EmbeddingProcessor - INFO - Loaded model BAAI/bge-m3.
+2024-08-11 17:51:48,771 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-11 17:51:48,949 - EmbeddingProcessor - INFO - Connected to Chroma DB at ./Vector_DB.
+2024-08-11 17:53:57,629 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-08-11 17:53:57,629 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-11 17:54:03,527 - EmbeddingProcessor - INFO - Loaded model BAAI/bge-m3.
+2024-08-11 17:54:03,549 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-11 17:54:03,722 - EmbeddingProcessor - INFO - Connected to Chroma DB at ./Vector_DB.
+2024-08-11 17:55:03,243 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-08-11 17:55:03,243 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-11 17:55:08,612 - EmbeddingProcessor - INFO - Loaded model BAAI/bge-m3.
+2024-08-11 17:55:08,638 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-11 17:55:08,869 - EmbeddingProcessor - INFO - Connected to Chroma DB at ./Vector_DB.
+2024-08-11 17:55:38,439 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-08-11 17:55:38,439 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-11 17:55:43,913 - EmbeddingProcessor - INFO - Loaded model BAAI/bge-m3.
+2024-08-11 17:55:43,945 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-11 17:55:44,123 - EmbeddingProcessor - INFO - Connected to Chroma DB at ./Vector_DB.
